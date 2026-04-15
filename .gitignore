@@ -23,6 +23,9 @@ target
 .scripts
 .direnv/
 
+# Personal notes (conversation exports, local scratch)
+.local/
+
 # Local dev files
 opencode-dev
 UPCOMING_CHANGELOG.md
